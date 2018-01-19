@@ -1,0 +1,15 @@
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\bin\Debug\Lab2_AngryBirds.exe.config
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\bin\Debug\Lab2_AngryBirds.exe
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\bin\Debug\Lab2_AngryBirds.pdb
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\bin\Debug\EntityFramework.dll
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\bin\Debug\EntityFramework.xml
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\obj\Debug\Lab2_AngryBirds.csprojResolveAssemblyReference.cache
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\obj\Debug\Lab2_AngryBirds.csproj.CoreCompileInputs.cache
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\obj\Debug\Lab2_AngryBirds.exe
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\obj\Debug\Lab2_AngryBirds.pdb
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\obj\Debug\Lab2_AngryBirds.Migrations.Empty.resources
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\obj\Debug\Lab2_AngryBirds.csproj.GenerateResource.Cache
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\obj\Debug\Lab2_AngryBirds.Migrations.Names.resources
+C:\Users\Joakim\source\repos\Lab2_AngryBirds\obj\Debug\Lab2_AngryBirds.Migrations.NewMaxLength.resources
